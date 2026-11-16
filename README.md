@@ -7,9 +7,9 @@ Réparation des rôles:
 
 -Victor : Créature
 
--Meloe : Partie 
+-Meloe : Partie (inventaire, boutique, choix creature)
 
--Ambre : Affichage
+-Ambre : Affichage 
 
 -Leo : Mini Jeu
 
