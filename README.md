@@ -1,2 +1,2 @@
-# Jeu-langage-C
+# Tamagochi 
 // Bonjour tout le monde
